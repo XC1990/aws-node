@@ -1,0 +1,26 @@
+{
+  "name": "aws-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "graphql": "^0.13.2",
+    "koa": "^2.5.1",
+    "koa-graphql": "^0.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XC1990/aws-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XC1990/aws-node/issues"
+  },
+  "homepage": "https://github.com/XC1990/aws-node#readme"
+}
